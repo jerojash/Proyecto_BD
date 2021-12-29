@@ -1,0 +1,23 @@
+{
+  "name": "Proyecto_BD",
+  "version": "1.0.0",
+  "description": "Proyecto_BD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerojash/Proyecto_BD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerojash/Proyecto_BD/issues"
+  },
+  "homepage": "https://github.com/jerojash/Proyecto_BD#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
